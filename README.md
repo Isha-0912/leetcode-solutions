@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Isha-0912/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Isha-0912/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Isha-0912/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1544-make-the-string-great](https://github.com/Isha-0912/leetcode-solutions/tree/master/1544-make-the-string-great) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Isha-0912/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+## Stack
+|  |
+| ------- |
+| [1544-make-the-string-great](https://github.com/Isha-0912/leetcode-solutions/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->
