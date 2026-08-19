@@ -70,12 +70,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Isha-0912/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Isha-0912/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Isha-0912/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Isha-0912/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Isha-0912/leetcode-solutions/tree/master/0009-palindrome-number) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Isha-0912/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Isha-0912/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
