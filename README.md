@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Isha-0912/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Isha-0912/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Isha-0912/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Isha-0912/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Isha-0912/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Isha-0912/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Isha-0912/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Isha-0912/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
