@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Isha-0912/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Isha-0912/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/Isha-0912/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0856-score-of-parentheses](https://github.com/Isha-0912/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Isha-0912/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1544-make-the-string-great](https://github.com/Isha-0912/leetcode-solutions/tree/master/1544-make-the-string-great) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Isha-0912/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Isha-0912/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Isha-0912/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Isha-0912/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
