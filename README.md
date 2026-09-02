@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Isha-0912/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0856-score-of-parentheses](https://github.com/Isha-0912/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Isha-0912/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Isha-0912/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/Isha-0912/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Isha-0912/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Isha-0912/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Isha-0912/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Isha-0912/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Isha-0912/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Matrix
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Isha-0912/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Isha-0912/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Isha-0912/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Isha-0912/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Prefix Sum
 |  |
 | ------- |
