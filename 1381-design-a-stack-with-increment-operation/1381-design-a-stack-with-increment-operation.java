@@ -1,11 +1,13 @@
 class CustomStack {
     int[] stack;
+    int[] inc;
     int maxSize;
     int index;
 
     public CustomStack(int maxSize) {
         this.maxSize=maxSize;
         stack=new int[maxSize];
+        inc = new int[maxSize];
         index=-1;
     }
     
@@ -21,15 +23,19 @@ class CustomStack {
         if(index==-1){
             return -1;
         }
-        int val=stack[index];
+        int res = stack[index]+inc[index];
+        if(index>0){
+            inc[index-1]+=inc[index];
+        }
+        inc[index]=0;
         index--;
-        return val;
+        return res;
     }
     
     public void increment(int k, int val) {
-        int limit = Math.min(k,index+1);
-        for(int i=0;i<limit;i++){
-            stack[i]+=val;
+        int limit = Math.min(k-1,index);
+        if(limit >=0){
+            inc[limit]+=val;
         }
     }
 }
