@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Isha-0912/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/Isha-0912/leetcode-solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Isha-0912/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Isha-0912/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Isha-0912/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Isha-0912/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/Isha-0912/leetcode-solutions/tree/master/0018-4sum) |
 | [0064-minimum-path-sum](https://github.com/Isha-0912/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Isha-0912/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Isha-0912/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Isha-0912/leetcode-solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Isha-0912/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/Isha-0912/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
