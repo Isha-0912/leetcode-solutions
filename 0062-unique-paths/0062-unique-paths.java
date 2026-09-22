@@ -1,14 +1,14 @@
 class Solution {
     public int uniquePaths(int m, int n) {
-        int[][] matrix = new int[m][n];
-        for(int[] row:matrix){
-            Arrays.fill(row,1);
+        int[][] mat = new int[m][n];
+        for(int[] i:mat){
+            Arrays.fill(i,1);
         }
-        for (int i=1;i<m;i++){
+        for(int i=1;i<m;i++){
             for(int j=1;j<n;j++){
-                 matrix[i][j]=matrix[i-1][j]+matrix[i][j-1];
+                mat[i][j]=mat[i-1][j]+mat[i][j-1];
             }
         }
-        return matrix[m-1][n-1];
+        return mat[m-1][n-1];
     }
 }
