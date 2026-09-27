@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Isha-0912/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Isha-0912/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Isha-0912/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Isha-0912/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Isha-0912/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Isha-0912/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0500-keyboard-row](https://github.com/Isha-0912/leetcode-solutions/tree/master/0500-keyboard-row) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Isha-0912/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Isha-0912/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Isha-0912/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Isha-0912/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0500-keyboard-row](https://github.com/Isha-0912/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Isha-0912/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
