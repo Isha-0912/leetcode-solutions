@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Isha-0912/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Isha-0912/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0500-keyboard-row](https://github.com/Isha-0912/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/Isha-0912/leetcode-solutions/tree/master/0504-base-7) |
 | [0680-valid-palindrome-ii](https://github.com/Isha-0912/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0856-score-of-parentheses](https://github.com/Isha-0912/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Isha-0912/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Isha-0912/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Isha-0912/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Isha-0912/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0504-base-7](https://github.com/Isha-0912/leetcode-solutions/tree/master/0504-base-7) |
 ## Design
 |  |
 | ------- |
