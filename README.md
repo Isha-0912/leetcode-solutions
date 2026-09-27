@@ -215,16 +215,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/Isha-0912/leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Isha-0912/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/Isha-0912/leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Isha-0912/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/Isha-0912/leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Isha-0912/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Isha-0912/leetcode-solutions/tree/master/0051-n-queens) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Isha-0912/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
