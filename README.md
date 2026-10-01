@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Isha-0912/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Isha-0912/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Isha-0912/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/Isha-0912/leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Isha-0912/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Isha-0912/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Isha-0912/leetcode-solutions/tree/master/0072-edit-distance) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Isha-0912/leetcode-solutions/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Isha-0912/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Isha-0912/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/Isha-0912/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Isha-0912/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Isha-0912/leetcode-solutions/tree/master/0018-4sum) |
 | [0051-n-queens](https://github.com/Isha-0912/leetcode-solutions/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Isha-0912/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Isha-0912/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Isha-0912/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Isha-0912/leetcode-solutions/tree/master/0088-merge-sorted-array) |
