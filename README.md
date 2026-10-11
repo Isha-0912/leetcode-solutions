@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Isha-0912/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Isha-0912/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Isha-0912/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0242-valid-anagram](https://github.com/Isha-0912/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Isha-0912/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0500-keyboard-row](https://github.com/Isha-0912/leetcode-solutions/tree/master/0500-keyboard-row) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Isha-0912/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Isha-0912/leetcode-solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Isha-0912/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/Isha-0912/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/Isha-0912/leetcode-solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Isha-0912/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Isha-0912/leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Isha-0912/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/Isha-0912/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Isha-0912/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 ## Math
