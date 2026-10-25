@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Isha-0912/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Isha-0912/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Isha-0912/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Isha-0912/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Isha-0912/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Isha-0912/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Isha-0912/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Isha-0912/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Isha-0912/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Isha-0912/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0168-excel-sheet-column-title](https://github.com/Isha-0912/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0382-linked-list-random-node](https://github.com/Isha-0912/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [0504-base-7](https://github.com/Isha-0912/leetcode-solutions/tree/master/0504-base-7) |
 ## Design
