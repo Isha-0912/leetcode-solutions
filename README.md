@@ -338,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Isha-0912/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Isha-0912/leetcode-solutions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
