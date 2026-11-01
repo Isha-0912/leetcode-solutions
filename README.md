@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Isha-0912/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Isha-0912/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Isha-0912/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Isha-0912/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Isha-0912/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Isha-0912/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Isha-0912/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Isha-0912/leetcode-solutions/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Isha-0912/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Isha-0912/leetcode-solutions/tree/master/0198-house-robber) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Isha-0912/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Isha-0912/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Manacher
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Isha-0912/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Isha-0912/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Isha-0912/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Isha-0912/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Isha-0912/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Isha-0912/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Hash Table
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Isha-0912/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Isha-0912/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/Isha-0912/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Isha-0912/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0382-linked-list-random-node](https://github.com/Isha-0912/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [0504-base-7](https://github.com/Isha-0912/leetcode-solutions/tree/master/0504-base-7) |
 ## Design
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Isha-0912/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Isha-0912/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Isha-0912/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Isha-0912/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -342,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Isha-0912/leetcode-solutions/tree/master/0197-rising-temperature) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Isha-0912/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
