@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Isha-0912/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Isha-0912/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Isha-0912/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Isha-0912/leetcode-solutions/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/Isha-0912/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Isha-0912/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0500-keyboard-row](https://github.com/Isha-0912/leetcode-solutions/tree/master/0500-keyboard-row) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Isha-0912/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Isha-0912/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Isha-0912/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Isha-0912/leetcode-solutions/tree/master/0299-bulls-and-cows) |
 | [0500-keyboard-row](https://github.com/Isha-0912/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Isha-0912/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
@@ -369,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Isha-0912/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/Isha-0912/leetcode-solutions/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
