@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Isha-0912/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Isha-0912/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Isha-0912/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Isha-0912/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Isha-0912/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Isha-0912/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Isha-0912/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Isha-0912/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Isha-0912/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Isha-0912/leetcode-solutions/tree/master/0299-bulls-and-cows) |
+| [0349-intersection-of-two-arrays](https://github.com/Isha-0912/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/Isha-0912/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Isha-0912/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Isha-0912/leetcode-solutions/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/Isha-0912/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Isha-0912/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/Isha-0912/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/Isha-0912/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0905-sort-array-by-parity](https://github.com/Isha-0912/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Isha-0912/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Isha-0912/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Isha-0912/leetcode-solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Isha-0912/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Isha-0912/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Isha-0912/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Isha-0912/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Isha-0912/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Isha-0912/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Isha-0912/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Pigeonhole Principle
 |  |
 | ------- |
