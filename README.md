@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Isha-0912/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Isha-0912/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Isha-0912/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Isha-0912/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Isha-0912/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Isha-0912/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Isha-0912/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Isha-0912/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Isha-0912/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Isha-0912/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Isha-0912/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Isha-0912/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Isha-0912/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Isha-0912/leetcode-solutions/tree/master/0120-triangle) |
