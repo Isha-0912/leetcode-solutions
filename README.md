@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Isha-0912/leetcode-solutions/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/Isha-0912/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Isha-0912/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Isha-0912/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0500-keyboard-row](https://github.com/Isha-0912/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Isha-0912/leetcode-solutions/tree/master/0504-base-7) |
 | [0680-valid-palindrome-ii](https://github.com/Isha-0912/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Isha-0912/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Isha-0912/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0382-linked-list-random-node](https://github.com/Isha-0912/leetcode-solutions/tree/master/0382-linked-list-random-node) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Isha-0912/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/Isha-0912/leetcode-solutions/tree/master/0504-base-7) |
 ## Design
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Isha-0912/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Isha-0912/leetcode-solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Isha-0912/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Isha-0912/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Linked List
 |  |
 | ------- |
