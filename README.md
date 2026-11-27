@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Isha-0912/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Isha-0912/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Isha-0912/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0292-nim-game](https://github.com/Isha-0912/leetcode-solutions/tree/master/0292-nim-game) |
 | [0382-linked-list-random-node](https://github.com/Isha-0912/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Isha-0912/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/Isha-0912/leetcode-solutions/tree/master/0504-base-7) |
@@ -402,4 +403,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Isha-0912/leetcode-solutions/tree/master/0299-bulls-and-cows) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Isha-0912/leetcode-solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Isha-0912/leetcode-solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Isha-0912/leetcode-solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Isha-0912/leetcode-solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Isha-0912/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
